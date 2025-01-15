@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="student.xsl"?>
-<class>
-  <student rollno="1">
-    <firstname>Ram</firstname>
-    <lastname>pawar</lastname>
-  </student>
-</class>
