@@ -242,6 +242,10 @@ a {
         padding: 0 40px;
     }
 
+    .img1 {
+        background-image:url("./image4.png");
+    }
+
     .page_2_text {
         font-size: 12px;
     }
